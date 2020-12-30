@@ -1,0 +1,4 @@
+name: Config
+version: @version@
+main: momonnga.config.Config
+api-version: 1.16
